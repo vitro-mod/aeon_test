@@ -1,0 +1,313 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:svgjs="http://svgjs.dev/svgjs" width="100%" height="100%" viewBox="0 0 600 600" opacity="0"
+    style="transform: translate(0px, 0px); opacity: 1;">
+    <g class="quarter-circle">
+        <rect width="100" height="100" fill="#ffeaf2" x="0" y="0"></rect>
+        <g mask="url(&quot;#SvgjsMask1038&quot;)">
+            <circle r="100" cx="0" cy="0" fill="#382f32"></circle>
+            <circle r="50" cx="0" cy="0" fill="#ffeaf2"></circle>
+        </g>
+    </g>
+    <defs>
+        <mask id="SvgjsMask1038">
+            <rect width="100" height="100" fill="#ffffff" x="0" y="0"></rect>
+        </mask>
+        <mask id="SvgjsMask1039">
+            <rect width="100" height="100" fill="#ffffff" x="0" y="100"></rect>
+        </mask>
+        <mask id="SvgjsMask1040">
+            <rect width="100" height="100" fill="#ffffff" x="0" y="300"></rect>
+        </mask>
+        <mask id="SvgjsMask1041">
+            <rect width="100" height="100" fill="#ffffff" x="0" y="500"></rect>
+        </mask>
+        <mask id="SvgjsMask1042">
+            <rect width="100" height="100" fill="#ffffff" x="100" y="100"></rect>
+        </mask>
+        <mask id="SvgjsMask1043">
+            <rect width="100" height="100" fill="#ffffff" x="100" y="400"></rect>
+        </mask>
+        <mask id="SvgjsMask1044">
+            <rect width="100" height="100" fill="#ffffff" x="200" y="0"></rect>
+        </mask>
+        <mask id="SvgjsMask1045">
+            <rect width="100" height="100" fill="#ffffff" x="200" y="200"></rect>
+        </mask>
+        <mask id="SvgjsMask1046">
+            <rect width="100" height="100" fill="#ffffff" x="300" y="0"></rect>
+        </mask>
+        <mask id="SvgjsMask1047">
+            <rect width="100" height="100" fill="#ffffff" x="300" y="100"></rect>
+        </mask>
+        <mask id="SvgjsMask1048">
+            <rect width="100" height="100" fill="#ffffff" x="300" y="500"></rect>
+        </mask>
+        <mask id="SvgjsMask1049">
+            <rect width="100" height="100" fill="#ffffff" x="400" y="100"></rect>
+        </mask>
+        <mask id="SvgjsMask1050">
+            <rect width="100" height="100" fill="#ffffff" x="400" y="200"></rect>
+        </mask>
+        <mask id="SvgjsMask1051">
+            <rect width="100" height="100" fill="#ffffff" x="400" y="300"></rect>
+        </mask>
+        <mask id="SvgjsMask1052">
+            <rect width="100" height="100" fill="#ffffff" x="500" y="300"></rect>
+        </mask>
+    </defs>
+    <g class="quarter-circle">
+        <rect width="100" height="100" fill="#ffeaf2" x="0" y="100"></rect>
+        <g mask="url(&quot;#SvgjsMask1039&quot;)">
+            <circle r="100" cx="100" cy="100" fill="#fbc5d8"></circle>
+        </g>
+    </g>
+    <g class="dots">
+        <rect width="100" height="100" fill="#fcd9e5" x="0" y="200"></rect>
+        <circle r="5" cx="15" cy="215" fill="#fbc5d8"></circle>
+        <circle r="5" cx="15" cy="238.33333333333334" fill="#fbc5d8"></circle>
+        <circle r="5" cx="15" cy="261.6666666666667" fill="#fbc5d8"></circle>
+        <circle r="5" cx="15" cy="285" fill="#fbc5d8"></circle>
+        <circle r="5" cx="38.33333333333333" cy="215" fill="#fbc5d8"></circle>
+        <circle r="5" cx="38.33333333333333" cy="238.33333333333334" fill="#fbc5d8"></circle>
+        <circle r="5" cx="38.33333333333333" cy="261.6666666666667" fill="#fbc5d8"></circle>
+        <circle r="5" cx="38.33333333333333" cy="285" fill="#fbc5d8"></circle>
+        <circle r="5" cx="61.666666666666664" cy="215" fill="#fbc5d8"></circle>
+        <circle r="5" cx="61.666666666666664" cy="238.33333333333334" fill="#fbc5d8"></circle>
+        <circle r="5" cx="61.666666666666664" cy="261.6666666666667" fill="#fbc5d8"></circle>
+        <circle r="5" cx="61.666666666666664" cy="285" fill="#fbc5d8"></circle>
+        <circle r="5" cx="85" cy="215" fill="#fbc5d8"></circle>
+        <circle r="5" cx="85" cy="238.33333333333334" fill="#fbc5d8"></circle>
+        <circle r="5" cx="85" cy="261.6666666666667" fill="#fbc5d8"></circle>
+        <circle r="5" cx="85" cy="285" fill="#fbc5d8"></circle>
+    </g>
+    <g class="opposite-circles">
+        <rect width="100" height="100" fill="#382f32" x="0" y="300"></rect>
+        <g mask="url(&quot;#SvgjsMask1040&quot;)">
+            <circle r="50" cx="0" cy="300" fill="#f1396d"></circle>
+            <circle r="50" cx="100" cy="400" fill="#f1396d"></circle>
+        </g>
+    </g>
+    <g class="draw-cross">
+        <rect width="100" height="100" fill="#ffeaf2" x="0" y="400"></rect>
+    </g>
+    <g
+        transform="matrix(0.7071067811865476,0.7071067811865475,-0.7071067811865475,0.7071067811865476,332.84270112637626,96.44660628622955)">
+        <rect width="66.66666666666667" height="20" fill="#fbc5d8" x="16.666666666666664" y="440"></rect>
+        <rect width="66.66666666666667" height="20" fill="#fbc5d8" x="16.666666666666664" y="440"
+            transform="matrix(6.123233995736766e-17,1,-1,6.123233995736766e-17,499.99999809265137,400.00000190734863)">
+        </rect>
+    </g>
+    <g class="half-square" mask="url(&quot;#SvgjsMask1041&quot;)">
+        <rect width="100" height="100" fill="#f1396d" x="0" y="500"></rect><text font-family="Source Code Pro"
+            font-size="120" font-weight="800" text-anchor="middle" fill="#ffeaf2" x="50" y="592.7461090087891"
+            transform="matrix(-1,1.2246467991473532e-16,-1.2246467991473532e-16,-1,99.99999427795416,1099.9999237060547)">J</text>
+    </g>
+    <g class="draw-cross">
+        <rect width="100" height="100" fill="#fbc5d8" x="100" y="0"></rect>
+    </g>
+    <g>
+        <rect width="66.66666666666667" height="20" fill="#f1396d" x="116.66666666666666" y="40"></rect>
+        <rect width="66.66666666666667" height="20" fill="#f1396d" x="116.66666666666666" y="40"
+            transform="matrix(6.123233995736766e-17,1,-1,6.123233995736766e-17,199.99999618530273,-99.99999618530273)">
+        </rect>
+    </g>
+    <g class="opposite-circles">
+        <rect width="100" height="100" fill="#f1396d" x="100" y="100"></rect>
+        <g mask="url(&quot;#SvgjsMask1042&quot;)">
+            <circle r="50" cx="100" cy="100" fill="#382f32"></circle>
+            <circle r="50" cx="200" cy="200" fill="#382f32"></circle>
+        </g>
+    </g>
+    <g class="half-square">
+        <rect width="100" height="100" fill="#fcd9e5" x="100" y="200"></rect>
+        <rect width="100" height="50" fill="#382f32" x="100" y="200"></rect>
+    </g>
+    <g class="dots">
+        <rect width="100" height="100" fill="#fcd9e5" x="100" y="300"></rect>
+        <circle r="5" cx="115" cy="315" fill="#382f32"></circle>
+        <circle r="5" cx="115" cy="350" fill="#382f32"></circle>
+        <circle r="5" cx="115" cy="385" fill="#382f32"></circle>
+        <circle r="5" cx="150" cy="315" fill="#382f32"></circle>
+        <circle r="5" cx="150" cy="350" fill="#382f32"></circle>
+        <circle r="5" cx="150" cy="385" fill="#382f32"></circle>
+        <circle r="5" cx="185" cy="315" fill="#382f32"></circle>
+        <circle r="5" cx="185" cy="350" fill="#382f32"></circle>
+        <circle r="5" cx="185" cy="385" fill="#382f32"></circle>
+    </g>
+    <g class="opposite-circles">
+        <rect width="100" height="100" fill="#fbc5d8" x="100" y="400"></rect>
+        <g mask="url(&quot;#SvgjsMask1043&quot;)">
+            <circle r="50" cx="100" cy="400" fill="#fcd9e5"></circle>
+            <circle r="50" cx="200" cy="500" fill="#fcd9e5"></circle>
+        </g>
+    </g>
+    <g class="dots">
+        <rect width="100" height="100" fill="#f1396d" x="100" y="500"></rect>
+        <circle r="5" cx="115" cy="515" fill="#fcd9e5"></circle>
+        <circle r="5" cx="115" cy="538.3333333333334" fill="#fcd9e5"></circle>
+        <circle r="5" cx="115" cy="561.6666666666666" fill="#fcd9e5"></circle>
+        <circle r="5" cx="115" cy="585" fill="#fcd9e5"></circle>
+        <circle r="5" cx="138.33333333333334" cy="515" fill="#fcd9e5"></circle>
+        <circle r="5" cx="138.33333333333334" cy="538.3333333333334" fill="#fcd9e5"></circle>
+        <circle r="5" cx="138.33333333333334" cy="561.6666666666666" fill="#fcd9e5"></circle>
+        <circle r="5" cx="138.33333333333334" cy="585" fill="#fcd9e5"></circle>
+        <circle r="5" cx="161.66666666666666" cy="515" fill="#fcd9e5"></circle>
+        <circle r="5" cx="161.66666666666666" cy="538.3333333333334" fill="#fcd9e5"></circle>
+        <circle r="5" cx="161.66666666666666" cy="561.6666666666666" fill="#fcd9e5"></circle>
+        <circle r="5" cx="161.66666666666666" cy="585" fill="#fcd9e5"></circle>
+        <circle r="5" cx="185" cy="515" fill="#fcd9e5"></circle>
+        <circle r="5" cx="185" cy="538.3333333333334" fill="#fcd9e5"></circle>
+        <circle r="5" cx="185" cy="561.6666666666666" fill="#fcd9e5"></circle>
+        <circle r="5" cx="185" cy="585" fill="#fcd9e5"></circle>
+    </g>
+    <g class="opposite-circles">
+        <rect width="100" height="100" fill="#fcd9e5" x="200" y="0"></rect>
+        <g mask="url(&quot;#SvgjsMask1044&quot;)">
+            <circle r="50" cx="200" cy="100" fill="#fbc5d8"></circle>
+            <circle r="50" cx="300" cy="0" fill="#fbc5d8"></circle>
+        </g>
+    </g>
+    <g class="half-square">
+        <rect width="100" height="100" fill="#ffeaf2" x="200" y="100"></rect>
+        <rect width="100" height="50" fill="#fcd9e5" x="200" y="100"></rect>
+    </g>
+    <g class="quarter-circle">
+        <rect width="100" height="100" fill="#fcd9e5" x="200" y="200"></rect>
+        <g mask="url(&quot;#SvgjsMask1045&quot;)">
+            <circle r="100" cx="200" cy="300" fill="#ffeaf2"></circle>
+        </g>
+    </g>
+    <g class="half-square">
+        <rect width="100" height="100" fill="#f1396d" x="200" y="300"></rect>
+        <rect width="50" height="100" fill="#fcd9e5" x="200" y="300"></rect>
+    </g>
+    <g class="diagonal-square">
+        <rect width="100" height="100" fill="#ffeaf2" x="200" y="400"></rect>
+        <polygon points="200,400 300,400 300,500" fill="#382f32"></polygon>
+    </g>
+    <g class="dots">
+        <rect width="100" height="100" fill="#fcd9e5" x="200" y="500"></rect>
+        <circle r="5" cx="215" cy="515" fill="#382f32"></circle>
+        <circle r="5" cx="215" cy="550" fill="#382f32"></circle>
+        <circle r="5" cx="215" cy="585" fill="#382f32"></circle>
+        <circle r="5" cx="250" cy="515" fill="#382f32"></circle>
+        <circle r="5" cx="250" cy="550" fill="#382f32"></circle>
+        <circle r="5" cx="250" cy="585" fill="#382f32"></circle>
+        <circle r="5" cx="285" cy="515" fill="#382f32"></circle>
+        <circle r="5" cx="285" cy="550" fill="#382f32"></circle>
+        <circle r="5" cx="285" cy="585" fill="#382f32"></circle>
+    </g>
+    <g class="opposite-circles">
+        <rect width="100" height="100" fill="#fbc5d8" x="300" y="0"></rect>
+        <g mask="url(&quot;#SvgjsMask1046&quot;)">
+            <circle r="50" cx="300" cy="0" fill="#ffeaf2"></circle>
+            <circle r="50" cx="400" cy="100" fill="#ffeaf2"></circle>
+        </g>
+    </g>
+    <g class="opposite-circles">
+        <rect width="100" height="100" fill="#fbc5d8" x="300" y="100"></rect>
+        <g mask="url(&quot;#SvgjsMask1047&quot;)">
+            <circle r="50" cx="300" cy="200" fill="#f1396d"></circle>
+            <circle r="50" cx="400" cy="100" fill="#f1396d"></circle>
+        </g>
+    </g>
+    <g class="draw-circle">
+        <rect width="100" height="100" fill="#ffeaf2" x="300" y="200"></rect>
+        <circle r="50" cx="350" cy="250" fill="#fcd9e5"></circle>
+        <circle r="25" cx="350" cy="250" fill="#ffeaf2"></circle>
+    </g>
+    <g class="half-square">
+        <rect width="100" height="100" fill="#ffeaf2" x="300" y="300"></rect>
+        <rect width="50" height="100" fill="#382f32" x="300" y="300"></rect>
+    </g>
+    <g class="dots">
+        <rect width="100" height="100" fill="#382f32" x="300" y="400"></rect>
+        <circle r="5" cx="315" cy="415" fill="#fbc5d8"></circle>
+        <circle r="5" cx="315" cy="485" fill="#fbc5d8"></circle>
+        <circle r="5" cx="385" cy="415" fill="#fbc5d8"></circle>
+        <circle r="5" cx="385" cy="485" fill="#fbc5d8"></circle>
+    </g>
+    <g class="quarter-circle">
+        <rect width="100" height="100" fill="#fcd9e5" x="300" y="500"></rect>
+        <g mask="url(&quot;#SvgjsMask1048&quot;)">
+            <circle r="100" cx="300" cy="500" fill="#382f32"></circle>
+            <circle r="50" cx="300" cy="500" fill="#fcd9e5"></circle>
+        </g>
+    </g>
+    <g class="half-square">
+        <rect width="100" height="100" fill="#f1396d" x="400" y="0"></rect>
+        <rect width="50" height="100" fill="#382f32" x="400" y="0"></rect>
+    </g>
+    <g class="opposite-circles">
+        <rect width="100" height="100" fill="#fbc5d8" x="400" y="100"></rect>
+        <g mask="url(&quot;#SvgjsMask1049&quot;)">
+            <circle r="50" cx="400" cy="100" fill="#fcd9e5"></circle>
+            <circle r="50" cx="500" cy="200" fill="#fcd9e5"></circle>
+        </g>
+    </g>
+    <g class="opposite-circles">
+        <rect width="100" height="100" fill="#fbc5d8" x="400" y="200"></rect>
+        <g mask="url(&quot;#SvgjsMask1050&quot;)">
+            <circle r="50" cx="400" cy="200" fill="#ffeaf2"></circle>
+            <circle r="50" cx="500" cy="300" fill="#ffeaf2"></circle>
+        </g>
+    </g>
+    <g class="half-square" mask="url(&quot;#SvgjsMask1051&quot;)">
+        <rect width="100" height="100" fill="#fbc5d8" x="400" y="300"></rect><text font-family="Source Code Pro"
+            font-size="120" font-weight="800" text-anchor="middle" fill="#fcd9e5" x="450" y="392.74610900878906"
+            transform="matrix(6.123233995736766e-17,1,-1,6.123233995736766e-17,799.9999465942383,-100.00005340576172)">M</text>
+    </g>
+    <g class="dots">
+        <rect width="100" height="100" fill="#382f32" x="400" y="400"></rect>
+        <circle r="5" cx="415" cy="415" fill="#f1396d"></circle>
+        <circle r="5" cx="415" cy="450" fill="#f1396d"></circle>
+        <circle r="5" cx="415" cy="485" fill="#f1396d"></circle>
+        <circle r="5" cx="450" cy="415" fill="#f1396d"></circle>
+        <circle r="5" cx="450" cy="450" fill="#f1396d"></circle>
+        <circle r="5" cx="450" cy="485" fill="#f1396d"></circle>
+        <circle r="5" cx="485" cy="415" fill="#f1396d"></circle>
+        <circle r="5" cx="485" cy="450" fill="#f1396d"></circle>
+        <circle r="5" cx="485" cy="485" fill="#f1396d"></circle>
+    </g>
+    <g class="diagonal-square">
+        <rect width="100" height="100" fill="#fcd9e5" x="400" y="500"></rect>
+        <polygon points="400,500 500,500 500,600" fill="#fbc5d8"></polygon>
+    </g>
+    <g class="draw-circle">
+        <rect width="100" height="100" fill="#fbc5d8" x="500" y="0"></rect>
+        <circle r="50" cx="550" cy="50" fill="#ffeaf2"></circle>
+        <circle r="25" cx="550" cy="50" fill="#fbc5d8"></circle>
+    </g>
+    <g class="draw-circle">
+        <rect width="100" height="100" fill="#fcd9e5" x="500" y="100"></rect>
+        <circle r="50" cx="550" cy="150" fill="#fbc5d8"></circle>
+        <circle r="25" cx="550" cy="150" fill="#fcd9e5"></circle>
+    </g>
+    <g class="draw-circle">
+        <rect width="100" height="100" fill="#fcd9e5" x="500" y="200"></rect>
+        <circle r="50" cx="550" cy="250" fill="#fbc5d8"></circle>
+    </g>
+    <g class="half-square" mask="url(&quot;#SvgjsMask1052&quot;)">
+        <rect width="100" height="100" fill="#382f32" x="500" y="300"></rect><text font-family="Source Code Pro"
+            font-size="120" font-weight="800" text-anchor="middle" fill="#fbc5d8" x="550" y="392.74610900878906"
+            transform="matrix(6.123233995736766e-17,1,-1,6.123233995736766e-17,899.999885559082,-199.99999237060547)">L</text>
+    </g>
+    <g class="dots">
+        <rect width="100" height="100" fill="#fbc5d8" x="500" y="400"></rect>
+        <circle r="5" cx="515" cy="415" fill="#fcd9e5"></circle>
+        <circle r="5" cx="515" cy="485" fill="#fcd9e5"></circle>
+        <circle r="5" cx="585" cy="415" fill="#fcd9e5"></circle>
+        <circle r="5" cx="585" cy="485" fill="#fcd9e5"></circle>
+    </g>
+    <g class="dots">
+        <rect width="100" height="100" fill="#fcd9e5" x="500" y="500"></rect>
+        <circle r="5" cx="515" cy="515" fill="#f1396d"></circle>
+        <circle r="5" cx="515" cy="585" fill="#f1396d"></circle>
+        <circle r="5" cx="585" cy="515" fill="#f1396d"></circle>
+        <circle r="5" cx="585" cy="585" fill="#f1396d"></circle>
+    </g>
+    <g class="half-square">
+        <rect width="300" height="300" fill="#f1396d" x="0" y="200"></rect>
+        <rect width="150" height="300" fill="#fcd9e5" x="0" y="200"></rect>
+    </g>
+</svg>
