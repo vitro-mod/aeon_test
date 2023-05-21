@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Хост: localhost
--- Время создания: Май 18 2023 г., 08:08
+-- Время создания: Май 21 2023 г., 18:18
 -- Версия сервера: 8.0.18
 -- Версия PHP: 8.2.6
 
@@ -66,15 +66,15 @@ INSERT INTO `users` (`id`, `nickname`, `pw_salt_hash`, `salt`, `date_of_birth`, 
 -- Индексы таблицы `bruteforce`
 --
 ALTER TABLE `bruteforce`
-  ADD PRIMARY KEY (`id`);
+  ADD PRIMARY KEY (`id`),
+  ADD KEY `ts_ip_index` (`ip`,`ts`) USING BTREE;
 
 --
 -- Индексы таблицы `users`
 --
 ALTER TABLE `users`
   ADD PRIMARY KEY (`id`),
-  ADD UNIQUE KEY `nickname` (`nickname`),
-  ADD UNIQUE KEY `nickname_2` (`nickname`);
+  ADD UNIQUE KEY `nickname` (`nickname`);
 
 --
 -- AUTO_INCREMENT для сохранённых таблиц
